@@ -1,2 +1,0 @@
-# buitengeslotenamsterdam
-My awesome repository
